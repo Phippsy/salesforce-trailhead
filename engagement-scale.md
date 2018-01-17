@@ -15,9 +15,18 @@ A quick refresher:
         - Test content variants.
 - Marketing cloud advertising and data.
     - Advertising studio
+        - Suppression lists, customer profiling.
+        - Lookalike list generation.
+        - Covers FB, IG, Twitter, YouTube - what about GDN?
     - Salesforce DMP
+        - Build custom audiences for ad targeting 
     - Salesforce Data Studio
+        - Data sharing platform
 - Marketing Cloud social media management
     - Social Studio: listen, engage, publish
+        - Plan & publish
+        - Listen
+        - Use with sales / service cloud
+        - Control content publishing
 
 
